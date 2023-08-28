@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-proxima-nova: "Proxima Nova";
+
+  /* Colors */
+  --color-white: #fff;
+}
